@@ -1,0 +1,13 @@
+.venv/
+.idea/
+.vscode/
+**__pycache__/
+
+# c#
+
+bin/
+obj/
+.vs/
+.idea/
+.vscode/
+*.user
